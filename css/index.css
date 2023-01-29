@@ -1,0 +1,465 @@
+body{
+    background-image:url(../img/bg-header-desktop.png) ;
+    background-repeat: no-repeat;
+    width: 1440px;
+    margin:0px !important;
+    margin:auto;
+}
+p{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+h2{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+h3{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.big{
+    width:500px;
+    margin:auto;
+    text-align: center;
+}
+.one{
+    margin-top:10px;
+    text-align: center;
+}
+.imgone{
+    width:70px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+h1{
+    color:hsl(210, 10%, 33%);
+    text-align: center;
+}
+.p1{
+    color:hsl(201, 11%, 66%);
+    text-align: center;
+}
+button{
+    padding: 10px;
+    padding-top:10px;
+    padding-right:20px;
+    padding-left:20px;
+    margin-right:5px;
+    margin-top:10px;
+    margin-left:5px;
+    font-size: 12px;
+    font-weight: 200;
+    border-radius: 25px;
+    border-style: hidden;
+    color:white;
+    border-top: 10px;
+    border-right: 5px;
+    border-left: 5px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.b1{
+    background-color: hsl(171, 66%, 44%);
+    border-color:   hsl(171, 66%, 44%);
+    text-align: center;
+}
+.b2{
+    background-color: hsl(233, 100%, 69%);
+    border-color: hsl(233, 100%, 69%);
+    text-align: center;
+}
+h2{
+    color:hsl(210, 10%, 33%);
+    text-align: center;
+}
+.p2{
+    
+    margin-bottom: 80px;
+    color:hsl(201, 11%, 66%);
+    text-align: center;
+}
+.two{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    margin-left:0%;
+    margin-bottom: 100px;
+}
+.twotwo{
+    width: 300px;
+    display:flex;
+    flex-direction:column;
+    align-content: center;
+    margin-top: 30px;
+}
+.imgtwo{
+    width:700px;
+    height: 500px;
+}
+.htwo{
+    width:130px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+    padding-left: 0px;
+    margin-left: 90px;
+    padding: 0%;
+    color:hsl(210, 10%, 33%);
+}
+.htwo1{
+    width:150px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    margin-left: 90px;
+    color:hsl(210, 10%, 33%);
+}
+.ptwo{
+    width:300px;
+    margin-bottom: 0px;
+    margin-left: 90px;
+    color:hsl(201, 11%, 66%);
+    margin-top:10px;
+    margin-bottom:25px;
+}
+.thirddiv{
+    width:500px;
+    margin:auto;
+    text-align: center;
+}
+.p3{
+    color:hsl(201, 11%, 66%);
+}
+.forthdiv{
+    width:500px;
+    margin:auto;
+    margin-top: 70px;
+    text-align: center;
+    margin-left:370px;
+}
+.imgthree{
+    width: 700px;
+}
+.p4{
+    color:hsl(201, 11%, 66%);
+    text-align: center;
+    font-size: 15px;
+}
+.sixthdiv{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    margin:auto;
+    margin-top:60px;
+    width:1200px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.flex{
+    width:300px;
+    text-align: center;
+    margin:auto;
+}
+p{
+    color:hsl(201, 11%, 66%);
+    font-size: 15px;
+}
+h3{
+    color:hsl(210, 10%, 33%);
+    text-align: center;
+}
+.imgfour{
+    text-align:center;
+}
+.sivthdiv{
+    width: 1200px;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    margin:auto;
+    text-align: center;
+
+}
+.i1{
+    padding-top:15px;
+    text-align: center;
+}
+.imgfive{
+    width:150px;
+    
+    padding-right:60px;
+    padding-left:30px;
+    text-align: center;
+    margin: auto;
+}
+.eighthdiv{
+    padding-top:90px;
+    text-align: center;
+    padding-bottom:40px;
+    margin: auto;
+}
+.p6{
+    width:500px;
+    text-align: center;
+    margin:auto;
+    padding-bottom:60px;
+}
+.finaldiv{
+    
+    opacity: 0.9;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    margin:auto;
+    background-color:hsl(204, 14%, 93%);
+}
+.imgsix{
+    width:50px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    margin-left: 200px;
+    margin-top:50px;
+    color:hsl(171, 66%, 44%);
+}
+.finaldiv_small{
+    padding-top:30px;
+}
+.p7{
+    width:90px;
+    padding-right:70px;
+    color:hsl(210, 10%, 33%);
+}
+.icon{
+    width:50px;
+    padding-top:60px;
+    color:hsl(210, 10%, 33%);
+}
+.finaldiv_icons{
+    width: 300px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    margin-left: 300px;
+    
+}
+.p7:hover{
+    color:hsl(171, 66%, 44%);
+    cursor: pointer;
+}
+.newicon:hover{
+    cursor:pointer;
+    color: hsl(171, 66%, 44%);;
+}
+.b1:hover{
+    background-color: hsl(171, 57%, 63%);
+    cursor: pointer;
+}
+.b2:hover{
+    background-color: hsl(233, 55%, 71%);
+    cursor: pointer;
+}
+@media (max-width:375px){
+    body{
+        width:375px;
+        background-image:url(../img/bg-header-mobile.png) ;
+        background-repeat: no-repeat;
+        margin:0px !important;
+        margin:auto;
+    }
+    .big{
+       width:300px;
+        margin:auto;
+        text-align: center;
+    }
+    .b1{
+        margin-bottom: 0px;
+        width: 200px;
+    }
+    .b2{
+        width: 200px;
+    }
+    .h2{
+        width:200px;
+        margin:auto;
+        text-align: center;
+    }
+    .p2{
+        width:250px;
+        margin:auto;
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    .two{
+        width:375px;
+        display:flex;
+        flex-direction:column;
+        flex-wrap: nowrap;
+        margin:auto;
+        margin: 50px;
+    }
+    .twotwo{
+        width: 250px;
+        text-align: center;
+        margin:auto;
+
+        margin:0px;
+    }
+    .imgtwo{
+        width:250px;
+        height: 250px;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    .htwo{
+        width:250px;
+        text-align: center;
+        padding-bottom: 20px;
+        margin: 0px;
+    }
+    .htwo1{
+        width:250px;
+        text-align: center;
+        margin: 0px;
+        padding-bottom: 20px;
+    }
+    .ptwo{
+        width:250px;
+        text-align: center;
+        margin: 0px;
+        padding-bottom: 50px;
+    }
+    .thirddiv{
+        width:250px;
+    }
+    .p3{
+        width:270px;
+        text-align: center;
+        margin:auto;
+        margin-bottom:50px;
+    }
+    .forthdiv{
+       
+        width: 375px;
+        margin:0px;
+        margin-right: 0%;
+    }
+    .imgthree{
+        width:300px;
+        height: 250px;
+        text-align: center;
+    }
+    .fifthdiv{
+        width:250px;
+        text-align: center;
+        margin: auto;
+        padding-bottom: 50px;
+    }
+    .sixthdiv{
+        width: auto;
+        display:flex;
+        flex-direction:column;
+        flex-wrap: nowrap;
+        margin:auto;
+        margin-top:60px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+    .sivthdiv{
+        width: auto;
+        display:flex;
+        flex-direction:column;
+        flex-wrap: nowrap;
+        margin:auto;
+        text-align: center;
+    
+    }
+    .imgfive{
+        padding-bottom: 80px;
+    }
+    .eighthdiv{
+        width:auto;
+        text-align: center;
+    }
+    .hh{
+        width:250px;
+        text-align: center;
+        margin: auto;
+    }
+    .p6{
+        width:260px;
+        text-align: center;
+        margin:auto;
+        padding-bottom:60px;
+    }
+    .finaldiv{
+        width: auto;
+         opacity: 0.9;
+        display:flex;
+        flex-direction:column;
+        flex-wrap: nowrap;
+        margin:auto;
+        background-color:hsl(204, 14%, 93%);
+    }
+    .logo{
+        width: auto;
+        margin: auto;
+        text-align: center;
+    }
+    .imgsix{
+        width: 45px;
+        margin:0px;
+        margin-top: 50px;
+        padding:0px;
+        text-align: center;
+        margin-bottom: 40px;
+
+    }
+    .finaldiv_small{
+        width: auto;
+        padding: 0px;
+        text-align: center;
+        margin:auto;
+    }
+    .p7{
+        width:auto;
+        height: 40px;
+        padding:0px;
+        color:hsl(210, 10%, 33%);
+        text-align: center;
+        margin:auto;
+    }
+    .icon{
+        width:50px;
+        padding-top:20px;
+        padding-bottom:30px ;
+        text-align: center;
+    }
+    .finaldiv_icons{
+        width: auto;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        margin-left: 0px;
+        margin: auto;
+        
+    }
+    .p7:hover{
+        color:hsl(171, 66%, 44%);
+        cursor: pointer;
+        
+    }
+    .newicon:hover{
+        cursor:pointer;
+        color:#26baa4;
+    }
+    .b1:hover{
+        background-color: hsl(171, 57%, 63%);
+        cursor: pointer;
+    }
+    .b2:hover{
+        background-color: hsl(233, 55%, 71%);
+        cursor: pointer;
+    }
+    
+}
